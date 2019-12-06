@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kmc\\source\\repos\\WordGuesserComp\\WordGuesserComp\\WordGuesserComp.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kmc\\source\\repos\\WordGuesserComp\\WordGuesserComp\\WordGuesserComp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kmc\\source\\repos\\WordGuesserComp\\WordGuesserComp\\WordGuesserComp.fsproj",
+        "projectName": "WordGuesserComp",
+        "projectPath": "C:\\Users\\kmc\\source\\repos\\WordGuesserComp\\WordGuesserComp\\WordGuesserComp.fsproj",
+        "packagesPath": "C:\\Users\\kmc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kmc\\source\\repos\\WordGuesserComp\\WordGuesserComp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kmc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

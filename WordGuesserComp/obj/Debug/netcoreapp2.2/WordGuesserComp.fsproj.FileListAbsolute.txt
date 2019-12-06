@@ -1,0 +1,10 @@
+C:\Users\kmc\source\repos\WordGuesserComp\WordGuesserComp\bin\Debug\netcoreapp2.2\WordGuesserComp.deps.json
+C:\Users\kmc\source\repos\WordGuesserComp\WordGuesserComp\bin\Debug\netcoreapp2.2\WordGuesserComp.runtimeconfig.json
+C:\Users\kmc\source\repos\WordGuesserComp\WordGuesserComp\bin\Debug\netcoreapp2.2\WordGuesserComp.runtimeconfig.dev.json
+C:\Users\kmc\source\repos\WordGuesserComp\WordGuesserComp\bin\Debug\netcoreapp2.2\WordGuesserComp.dll
+C:\Users\kmc\source\repos\WordGuesserComp\WordGuesserComp\bin\Debug\netcoreapp2.2\WordGuesserComp.pdb
+C:\Users\kmc\source\repos\WordGuesserComp\WordGuesserComp\obj\Debug\netcoreapp2.2\WordGuesserComp.fsprojAssemblyReference.cache
+C:\Users\kmc\source\repos\WordGuesserComp\WordGuesserComp\obj\Debug\netcoreapp2.2\WordGuesserComp.AssemblyInfoInputs.cache
+C:\Users\kmc\source\repos\WordGuesserComp\WordGuesserComp\obj\Debug\netcoreapp2.2\WordGuesserComp.AssemblyInfo.fs
+C:\Users\kmc\source\repos\WordGuesserComp\WordGuesserComp\obj\Debug\netcoreapp2.2\WordGuesserComp.dll
+C:\Users\kmc\source\repos\WordGuesserComp\WordGuesserComp\obj\Debug\netcoreapp2.2\WordGuesserComp.pdb
